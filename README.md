@@ -1,2 +1,5 @@
 # OSINT_Web_Apps
-Web applications for OSINT investigations.
+Desktop web applications for quick Open Source Intelligence.
+
+To-Do
+- [ ] Snap all applications.
