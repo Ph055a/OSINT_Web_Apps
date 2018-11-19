@@ -1,5 +1,5 @@
 # OSINT_Web_Apps
-Desktop web applications for OSINT Investigations. These are best used for your sock puppet accounts. It allows you to pull up domains outside of your regular web browser.
+Desktop web applications for OSINT Investigations. These are best used for your sock puppet accounts. It allows you to pull up domains outside of your regular web browser session right from your desktop.
 
 ![Alt Text](https://media.giphy.com/media/KMsmPrCDrNGgM/giphy.gif)
 
